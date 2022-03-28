@@ -1,2 +1,2 @@
-# pendaftaran_siswa
+# Pendaftaran Siswa
 
